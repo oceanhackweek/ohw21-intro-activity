@@ -127,7 +127,7 @@ Now we can see that git understands that we want to include our introduction fil
 
 ## Push to fork
 
-> Deal with authentication
+> Deal with authentication <https://docs.github.com/en/get-started/quickstart/set-up-git>
 
 ## Make a Pull Request
 
