@@ -121,11 +121,15 @@ Changes to be committed:
 
 Now we can see that git understands that we want to include our introduction file in our next commit.
 
-> more details to come on commiting and the following topics later, when Alex can think more.
+Then to make the commit itself, write \`git commit -m "YOUR SUMMARY OF THE CONTENTS OF THE COMMIT HERE
 
-> reference issue in PR
+MORE DETAILS CAN FOLLOW ON FURTHER LINES WITHIN THE QUOTES"
 
-## Push to fork
+One nice thing about GitHub is that you can [reference an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) by number in a commit message, such as 'Closes #42' or 'Works on #42' which will connect the commit and the later pull request to the issue (and the issue back to them).
+
+## Push to your fork
+
+Now to share our awesome introduction, we need to push our commit back up to our fork.
 
 > Deal with authentication <https://docs.github.com/en/get-started/quickstart/set-up-git>
 
