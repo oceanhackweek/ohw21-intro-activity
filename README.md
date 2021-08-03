@@ -11,20 +11,21 @@ A quick introduction to git (and each other) for OHW 21 - in person.
 
 -   Create an issue 'Introduce YOUR NAME'. In that issue add a checklist of tasks to complete. You can copy the example below:
 
-
-    - [x] Create an issue of tasks to introduce myself
-    - [ ] Fork repo
-    - [ ] Clone repo to JupyterHub
-    - [ ] Checkout a branch
-    - [ ] Add an introduction file for yourself
-    - [ ] Push to your fork
-    - [ ] Make a pull request
-    - [ ] Review someone else's pull request (and say hello!)
-    - [ ] Merge your pull request after it's been reviewed
-    - [ ] Checkout the main branch
-    - [ ] Add an upstream remote
-    - [ ] Pull upstream changes into your fork
-    - [ ] Close this issue
+```plain
+- [x] Create an issue of tasks to introduce myself
+- [ ] Fork repo
+- [ ] Clone repo to JupyterHub
+- [ ] Checkout a branch
+- [ ] Add an introduction file for yourself
+- [ ] Push to your fork
+- [ ] Make a pull request
+- [ ] Review someone else's pull request (and say hello!)
+- [ ] Merge your pull request after it's been reviewed
+- [ ] Checkout the main branch
+- [ ] Add an upstream remote
+- [ ] Pull upstream changes into your fork
+- [ ] Close this issue
+```
 
 ## Fork the repo
 
