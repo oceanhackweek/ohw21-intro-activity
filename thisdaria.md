@@ -1,0 +1,1 @@
+My name is Daria and I am currently located in New Haven, CT. I am originally from the West Coast and studied Mathematics at the University of Washington. I am a research software engineer working in reinforcement learning and aircraft simulation. My favorite flavor of ice cream is cherry, specifically the one made by Tillamook!
