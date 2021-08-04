@@ -1,3 +1,3 @@
 Teresa Updyke
 Old Dominion University
-cookies & cream
+My favorite ice cream: cookies & cream
